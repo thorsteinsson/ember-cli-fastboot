@@ -63,7 +63,7 @@
     "broccoli-merge-trees": "^1.1.1",
     "broccoli-plugin": "^1.2.1",
     "contextify": "^0.1.11",
-    "ember-fastboot-server": "0.5.1",
+    "ember-fastboot-server": "https://github.com/ember-fastboot/ember-fastboot-server.git#0c511b05f0c04b9231f9d9e82d86b1970797f207",
     "express": "^4.8.5",
     "lodash": "^3.1.0",
     "rsvp": "^3.0.16"
